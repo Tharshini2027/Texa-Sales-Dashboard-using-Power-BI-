@@ -1,19 +1,38 @@
-# Sales Dashboard (Power BI)
+# Texa Sales Dashboard – Power BI Project
 
-This project showcases a simple sales dashboard built using Power BI.  
-It helps visualize monthly revenue, region-wise performance, and product sales.
+This is an interactive **Sales Dashboard** built using **Power BI**.  
+It provides key insights into sales performance, profit trends, and customer segments.
 
-## 🔧 Tools Used
+---
+
+## 🛠 Tools Used
 - Power BI
-- Excel (.csv dataset)
+- Excel (as data source)
 
-## 📊 Dashboard Features
-- Monthly revenue trends
-- Product-wise breakdown
-- Region-wise comparison
+---
+
+## 📊 Features
+- Total Sales and Profit Overview
+- Region-wise performance (Central, East, West, South)
+- Monthly trend analysis
+- Top-performing sub-categories and customers
+- Dynamic slicers for filtering data
+
+---
 
 ## 📸 Preview
-![Dashboard Screenshot](images/sales-dashboard.png)
 
-## 📁 Dataset Source
-Used dummy data created in Excel for learning purposes.
+![Dashboard Screenshot](images/texa-dashboard-preview.png)
+
+---
+
+## 📁 Dataset
+Sample sales data provided for Power BI learning and practice purposes.
+
+---
+
+## 👩‍💻 Created By
+
+**Tharshini Nagarajan**  
+Pre-final year CSE student | Aspiring Data Analyst  
+🌱 Exploring Power BI, Excel, and SQL
