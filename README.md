@@ -22,7 +22,7 @@ It provides key insights into sales performance, profit trends, and customer seg
 
 ## 📸 Preview
 
-![Dashboard Screenshot](images/texa-dashboard-preview.png)
+![Dashboard Screenshot](https://github.com/Tharshini2027/Texa-Sales-Dashboard-using-Power-BI-/tree/main/screenshot%20of%20sales%20dashboard)
 
 ---
 
